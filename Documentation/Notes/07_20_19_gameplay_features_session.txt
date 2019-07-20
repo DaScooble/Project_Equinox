@@ -1,0 +1,37 @@
+4th Grade Games: 7/20/19
+
+Project Equinox
+
+Gameplay Features:
+	Walking, fast walking, maybe jumping
+	Looking around, first-person
+	Opening and closing doors, "press E", interaction with objects, ladders?
+	picking up items, placing items
+	sound FX, music
+
+	menu
+		minimal pause menu
+		autosave features using colliders
+	
+	credits at the end
+	
+	developer console for testing
+	dynamic graphical quality settings
+		graphics requirements should be 60 fps on our development PCs
+
+	Culling
+		research UE4 rendering and culling, multiple quality meshes, distance culling
+
+	Particle Effects
+		Dust, pollen, fog, smoke, ash, dirt, trash, waterfall vapor
+
+	Possibly ability to move camera during important scenes
+
+	lighting filters
+		brightness filters
+		dark filters
+		contrast
+		Ray casting
+
+	Volumetric lighting
+	Ambient Occlusion
