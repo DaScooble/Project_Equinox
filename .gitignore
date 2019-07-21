@@ -49,3 +49,5 @@ DerivedDataCache/*
 
 # Ignore all log files
 *.log
+
+*.json
