@@ -1,0 +1,58 @@
+August 26th, 2019
+Attendees: Aaron, Jordan
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+The following document contains a list of areas that will be part of the game.
+
+The areas are listed in order of appearance and are subject to change.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+House 
+	1st floor
+	2nd floor
+	Exit to street
+
+Streets 1
+	exit into very narrow alleyway
+	one floor
+	alleyways branching off
+		most of them are dead ends with dumpsters
+	narrow, winding paths (unplanned, rushed feeling)
+	eventually, larger open area with subway access via stairs
+
+Subway level 1
+	go down wide stairs
+	oppressive, mean, cold, cramped ticket gates
+	inner platform
+	broken escalator
+	long mysterious phatom train platform
+	dripping water from the ceiling that leads the player to tunnel
+
+tunnel
+	dark tunnel underground, mossy, and dank
+	trickling water forms a tiny stream
+	sewer grates on the roof of the tunnel that let in some soft light
+	The tunnel is dark, and then leads out to the head of the gorge
+
+gorge (outside)
+	very narrow and tall gorge like columnbia river 
+	pebbles and small rocks in the stream
+	gorge eventually opens up and there are larger boulders
+	stone boulder walkway along the creek
+	
+??? (areas to be added)
+	?????????????????????
+
+small pond area
+	with shallow water
+	mostly circular
+	small island in the middle of the pond
+	dense impassable forest around the pond area
+	light rays through canopy
+	path leading to the house in the woods over bridge
+
+house in the woods
+	exact same model as the interior of the home
+	looks more lived-in and like a family
+	like warm, loved, childhood, toys
+	
